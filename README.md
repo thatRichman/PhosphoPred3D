@@ -2,4 +2,4 @@
 
 Prediction of phosphorylation sites using 3D structural information and deep learning.
 
-Very much in the early stages, under sporaditc development.
+Very much in the early stages, under sporadic development.
